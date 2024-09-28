@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on all kinds of projects as I gain experience.
 - I really love cross-displinary work and want to combine all of my interests.
 - 📫 How to reach me: you can email me at calvinpaloma@gmail.com.
-- 
+
 
 <!---
 palomacalvin/palomacalvin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
